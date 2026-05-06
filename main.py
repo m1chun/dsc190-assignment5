@@ -3,7 +3,7 @@ def main():
 
 def add(a, b):
     x = 1 + 2
-    return a + b
+    return a + b + x
 
 if __name__ == "__main__":
     main()
